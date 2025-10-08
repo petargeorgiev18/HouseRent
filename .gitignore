@@ -1,0 +1,27 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+
+# Ignore build results
+bin/
+obj/
+out/
+
+# Ignore packages
+packages/
+*.nupkg
+*.snupkg
+
+# Ignore temporary logs
+*.log
+
+# Ignore user secrets and local settings
+appsettings.Development.json
+*.db
+*.sqlite
+
+# Ignore local files
+*.swp
+*.DS_Store
+Thumbs.db
